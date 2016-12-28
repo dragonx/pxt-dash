@@ -1,2 +1,5 @@
 # pxt-dash
-Experimental
+Experimental PXT Library
+
+# Supported targets
+* for PXT/microbit
